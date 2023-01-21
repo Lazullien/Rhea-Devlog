@@ -1,0 +1,114 @@
+//devlog for Rhea, copy to project
+
+*The entire devlog of Rhea from the birth of the name to date, it may appear as completely different games at different periods, this is true,
+*now I've gone and collapsed all possibilities into the current form, the sandbox platformer, this update was done around December 2022, if
+*you wanna keep do date start from there, the rest just exists.
+
+9/3/2022
+iteration system for chunks complete, although bugs appear to not paint the world (resolved)
+
+9/4/2022
+temperature calculation done
+
+9/11/2022 note: get media guys (gamers) to promote game, not just a sponser, a gameplay video
+                  budget: 1500 bucks
+
+                  basic collision done
+
+9/12/2022
+jump not working properly, so is falling
+
+3 months in, wow
+
+9/24/2022
+done with an unrefined bugged model of cursor mechanism and border drawing
+plans tomorrow to add proper 3d top down rendering
+
+10/1/2022
+cursor basic actions done
+
+10/2/2022
+wavefunctioncollapse generation somewhat done
+
+10/5/2022
+entropy coordinate superposition wave somehow gets turned into size 0
+
+10/7/2022
+basic 2d wave function collapse without weight implementation completed
+
+10/15/2022
+hotbar done, thinking of doing a mass based world viewing system
+
+10/16/2022
+new idea, achievement evaluation system where the one watching asks you questions and talks with you
+"what was it for" "good job" "i love this world you've shaped" "why are you so passionate"
+"why can't i be like you"
+Game experience: feeling fantastic about building your own haven
+overall goal: build a virtual world to your liking
+
+10/17/2022
+new shadow movement system, human into pointershadow into human into editorshadow into human and activate edits
+tomorrow set viewing in shadow for cursors and selection stopping cursor attraction system
+
+10/23/2022
+it seems the chunks are being unloaded when in shadow camera, gonna do a check with loadedchunks.size()
+cover basic function is completed (the one with WFC). Just need to find the problem with keyhandler finalselect in different methods
+certain dialogues for dream cutscenes are completed, these will take time in multiplayer, but pauses time in singleplayer.
+
+10/27/2022
+basic 3d rendering done
+
+11/19/2022
+change of game: build a sanctuary in an antarctic hostile environment
+tomorrow start with breathing system
+add tamable native creatures
+
+11/23/2022
+ending you get to leave the place and enter freeplay area, but you could always come back to this "reality" (maybe remove)
+add flashlight effect, the surrounding darkens and transforms into weird unsettling colors
+
+11/23/2022
+death punishment shall be losing your shit
+basically to survive you'll have to explore and build an ecosystem
+
+12/2/2022 reindeers
+
+12/4/2022 reminder that the game is about taking risks and stuff in an extremely resource limited situation 
+also fighting and killing is a last resort and heavily disencouraged, the goal is for you to overcome difficulties, not
+for you to go megalomaniac
+
+12/7/2022
+fishing is also a source of food, raw tho
+foraging also can provide food, but it's rare to find them around, and most of them are poisonous, but plants are plantable
+hunting is allowed, but dangerous since animals who could survive here most likely aren't weak themselves
+present mind polluting entities who disencourages you, later on you get strong enough to simply kill them
+turning de-motivation into motivation
+
+12/12/2022
+have different weather represent different states of mind
+all of these could be survived with enough skill and luck and could even be taken advantage of
+blizzard - loneliness - build casting
+tornado - anxious - demolition or exploration
+hail - hopeless - weaponize (kinda hard to use this one for anything else)
+volcano - anger - heat supply (yes there are lots of volcanoes in antarctica, these mostly appear around geothermal oasises)
+
+
+//THIS IS THE COLLAPSED FORM OF THIS GAME
+12/26/2022
+system of defense, basically your goal is to defend yourself against natural disasters, this is based on a rock paper scissors like system
+mostly using temperature, precipitation and resistance of tiles
+
+1/13/2023
+platformer sandbox instead
+use spike generation and add material restrictions to tiles
+
+1/15/2023
+done with a prototype of building
+tomorrow perfect jumping
+
+1/18/2023
+add spikes to either cave walls, or use another layer of 2d perlin noise for less linear spikes
+try interpolating border values first, else 
+
+1/21/2023
+added umbrella movements as glide and umbrella jump, as well as further hitbox and momentum perfection
