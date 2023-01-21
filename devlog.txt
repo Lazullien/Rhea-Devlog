@@ -2,7 +2,7 @@
 
 *The entire devlog of Rhea from the birth of the name to date, it may appear as completely different games at different periods, this is true,
 *now I've gone and collapsed all possibilities into the current form, the sandbox platformer, this update was done around December 2022, if
-*you wanna keep do date start from there, the rest just exists.
+*you wanna keep do date start from there, the rest just exists to embarrass me, you can really see my development alongside the game this way too!.
 
 9/3/2022
 iteration system for chunks complete, although bugs appear to not paint the world (resolved)
