@@ -112,3 +112,6 @@ try interpolating border values first, else
 
 1/21/2023
 added umbrella movements as glide and umbrella jump, as well as further hitbox and momentum perfection
+
+1/18/2023
+changing the movement code into a vector based format for precise actions and easier editing
