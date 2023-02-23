@@ -11,3 +11,7 @@ used for deeper methods of playing around with the movement type tiles the game 
 i'm not sure whether to keep the preset system in however, it pains me to say this but it might be deprecated
 2/12/2023
 I'll be working on the ray placement for now
+
+2/23/2023
+I'm going to do a complete remake of the art this weekend, currently adding entity with entity collision
+since i'm not gonna take THAT long making the art i think i'm gonna add some special functions of certain tiles(you'll see)
