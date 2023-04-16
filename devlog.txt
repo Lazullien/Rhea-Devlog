@@ -115,3 +115,6 @@ added umbrella movements as glide and umbrella jump, as well as further hitbox a
 
 1/18/2023
 changing the movement code into a vector based format for precise actions and easier editing
+
+4/16/2023
+finally i remembered that i posted a devlog on github, currently doing basic lighting and constructing scenes for a gameplay vid
