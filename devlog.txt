@@ -118,3 +118,5 @@ changing the movement code into a vector based format for precise actions and ea
 
 4/16/2023
 finally i remembered that i posted a devlog on github, currently doing basic lighting and constructing scenes for a gameplay vid
+
+project halted, making a smaller scaled game called atelo rn, sorry if anyone was looking forward to this, i'll get back to it in the future
